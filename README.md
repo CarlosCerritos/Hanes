@@ -1,2 +1,1 @@
 # Hanes
-Proyecto Hanes
